@@ -1,58 +1,70 @@
-# Refokus Website Clone
+# Getting Started with Create React App
 
-Welcome to the Refokus website clone project! This project aims to replicate the design and functionality of the Refokus website using HTML, CSS, and JavaScript. Additionally, it utilizes Locomotive Scroll and GSAP for smooth scrolling effects, and Shery.js for animations.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
+## Available Scripts
 
-- **Replicated Design**: Recreate the design and layout of the Refokus website.
-- **HTML, CSS, JavaScript**: Use standard web technologies for building the website.
-- **Smooth Scrolling**: Implement smooth scrolling effects using Locomotive Scroll.
-- **Animations**: Incorporate animations using GSAP and Shery.js.
+In the project directory, you can run:
 
-## Tech Stack
+### `npm start`
 
-- **HTML**: Standard markup language for building the structure of web pages.
-- **CSS**: Cascading Style Sheets for styling the website.
-- **JavaScript**: Programming language for adding interactivity and dynamic features.
-- **Locomotive Scroll**: JavaScript library for smooth scrolling effects.
-- **GSAP**: GreenSock Animation Platform for creating animations.
-- **Shery.js**: JavaScript library for creating scroll animations.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Preview
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-![Refokus Website Clone Preview](/public/preview.png)
+### `npm test`
 
-## Live Website
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Explore Refokus-Clone live: [Refokus-Clone Live](https://antra77.github.io/Refokus-Clone/)
+### `npm run build`
 
-## Getting Started
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-To run this project locally, follow these steps:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-1. Clone the repository to your local machine:
-`git clone https://github.com/yourusername/refokus-website-clone.git`
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-2. Navigate to the project directory:
-`cd refokus-website-clone`
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-3. Open the `index.html` file in your preferred web browser.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-4. Explore the Refokus website clone!
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Contribution
+## Learn More
 
-Contributions are welcome! If you have ideas on how to improve the Refokus website clone or add new features, please feel free to submit an issue or pull request.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## License
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+### Code Splitting
 
-## Acknowledgements
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - For providing smooth scrolling effects.
-- [GSAP](https://greensock.com/gsap/) - For offering powerful animation tools and libraries.
-- [Shery.js](https://sheryjs.dev/) - For enabling scroll animations.
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
